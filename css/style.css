@@ -120,3 +120,16 @@ img{
     border-radius: 50%;
     margin-bottom: 15px;
 }
+
+/*Footer*/
+
+.footer {
+    background-color:rgb(250, 184, 160);
+    display: flex;
+    flex-direction: column;
+}
+.footer div {
+    padding: 20px 20px;
+    text-align: center;
+    height: 10%0;
+}
